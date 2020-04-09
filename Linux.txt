@@ -161,5 +161,6 @@ The command “unzip” is used to decompress a .zip file and extract all the fi
 Syntax: unzip zip_file_name.zip
 Example:
 
-unzip Files.zip
+unzip Files.zip pavan
+
 
